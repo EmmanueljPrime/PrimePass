@@ -1,4 +1,4 @@
-# 🔐 PrimePass - Générateur de Mots de Passe Sécurisés
+# PrimePass - Générateur de Mots de Passe Sécurisés
 
 PrimePass est un générateur de mots de passe moderne et complet avec analyse de sécurité avancée et options de hachage. Conçu avec Next.js et une interface utilisateur moderne.
 
